@@ -1,5 +1,5 @@
 {
-  "name": "newOne1",
+  "name": "JPKana",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -65,7 +65,7 @@
     "type": "modules",
     "jsSrcsDir": "specs",
     "android": {
-      "javaPackageName": "com.timscodes.local.chat.specs"
+      "javaPackageName": "com.timscodes.jp.kana.specs"
     },
     "ios": {
       "modulesProvider": {

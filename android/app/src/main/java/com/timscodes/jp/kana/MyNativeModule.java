@@ -1,6 +1,6 @@
 // MyNativeModule.java
 
-package com.timscodes.local.chat;
+package com.timscodes.jp.kana;
 
 import android.content.Intent;
 import android.os.Build;

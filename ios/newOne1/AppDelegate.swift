@@ -24,7 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     window = UIWindow(frame: UIScreen.main.bounds)
 
     factory.startReactNative(
-      withModuleName: "newOne1",
+      withModuleName: "JPKana",
       in: window,
       launchOptions: launchOptions
     )

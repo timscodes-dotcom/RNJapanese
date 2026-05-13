@@ -1,4 +1,4 @@
-package com.timscodes.local.chat
+package com.timscodes.jp.kana
 
 import android.app.Application
 import com.facebook.react.PackageList
@@ -7,7 +7,7 @@ import com.facebook.react.ReactHost
 import com.facebook.react.ReactNativeApplicationEntryPoint.loadReactNative
 import com.facebook.react.defaults.DefaultReactHost.getDefaultReactHost
 
-import com.timscodes.local.chat.MyNativePackage
+import com.timscodes.jp.kana.MyNativePackage
 
 class MainApplication : Application(), ReactApplication {
 
